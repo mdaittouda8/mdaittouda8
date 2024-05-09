@@ -16,7 +16,7 @@ I'm a dedicated data scientist with a background in Computer Science . I have a 
 
 ## Contact Me
 
-Feel free to reach out to me via email at [md.aittouda@email.com](mailto:md.aittouda@email.com)
+Feel free to reach out to me via email at [md.aittouda@gmail.com](mailto:md.aittouda@gmail.com)
 
 
 
