@@ -6,30 +6,46 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-mdaittouda8/mdaittouda8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 # Mohamed's Data Science Portfolio
 
-Welcome to my data science portfolio! I'm Mohamed, a passionate data scientist with experience in [mention your areas of expertise or specific technologies].
+Welcome to my data science portfolio! I'm Mohamed, a passionate data scientist with experience in various domains including machine learning, data analysis, and visualization.
 
 ## About Me
 
-I'm a dedicated data scientist with a background in [mention your educational background or relevant experiences]. I have a keen interest in leveraging data to derive meaningful insights and solve complex problems.
+I'm a dedicated data scientist with a background in Computer Science and a Master's degree in Data Science. I have a keen interest in leveraging data to derive meaningful insights and solve complex problems.
 
+## Projects
+
+### Project Name 1
+- **Description**: Brief overview of the project, its goals, and outcomes.
+- **Technologies Used**: List of technologies or tools used.
+- **Link**: [Project Repository](link)
+
+### Project Name 2
+- **Description**: Brief overview of the project, its goals, and outcomes.
+- **Technologies Used**: List of technologies or tools used.
+- **Link**: [Project Repository](link)
+
+### Project Name 3
+- **Description**: Brief overview of the project, its goals, and outcomes.
+- **Technologies Used**: List of technologies or tools used.
+- **Link**: [Project Repository](link)
+
+[Add more projects as necessary]
 
 ## Skills
 
-- **Programming Languages**: [List of programming languages you are proficient in]
-- **Data Analysis**: [Any specific data analysis tools or techniques you specialize in]
-- **Machine Learning**: [Highlight any machine learning algorithms or frameworks you have experience with]
-- **Data Visualization**: [Mention any data visualization tools or libraries you are proficient in]
-- **Database Management**: [If applicable, mention any database management systems you are familiar with]
+- **Programming Languages**: Python, R
+- **Data Analysis**: Pandas, NumPy, SQL
+- **Machine Learning**: Scikit-learn, TensorFlow, Keras
+- **Data Visualization**: Matplotlib, Seaborn, Plotly
+- **Database Management**: MySQL, MongoDB
 
 ## Contact Me
 
-Feel free to reach out to me via email at [md.aittouda@gmail.com] or connect with me on [LinkedIn/Twitter/other social media platforms].
+Feel free to reach out to me via email at [mohamed@email.com](mailto:mohamed@email.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed) or [Twitter](https://twitter.com/mohamed).
 
+## Acknowledgments
 
+I would like to express my gratitude to my mentors, colleagues, and the open-source community for their support and inspiration.
 
