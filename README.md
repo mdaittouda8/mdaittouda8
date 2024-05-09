@@ -27,9 +27,12 @@ I'm a dedicated data scientist with a background in Computer Science . I have a 
   ![Seaborn](https://img.shields.io/badge/-Seaborn-007ACC?style=flat-square&logo=seaborn&logoColor=white)
   ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
+  **Business Intelligence Tools**: 
+  ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+  ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=white)
+
 - **Database Management**: 
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 
 ## Contact Me
