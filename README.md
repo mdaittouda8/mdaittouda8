@@ -33,6 +33,7 @@ I'm a dedicated data scientist with a background in Computer Science . I have a 
 
 - **Database Management**: 
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 
 ## Contact Me
