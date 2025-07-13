@@ -18,7 +18,7 @@
 - 📩 How to reach me **md.aittouda@gmail.com**
 
 <div align="center"> 
-  <a href="YOUR_LINKEDIN_URL_HERE">
+  <a href="https://www.linkedin.com/in/medaittouda/">
     <img height="35" width="140" title="LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
 </div>
