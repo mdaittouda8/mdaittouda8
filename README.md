@@ -1,9 +1,9 @@
-<!-- Capsule header with gradient -->
+<!-- Header banner with multi-color gradient -->
 <a href="#">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&colorGradient=005C9E,00c853,FF9800&height=120&section=header"/>
 </a>
 
-<!-- Typing text with multiple colors -->
+<!-- Typing animation with matching color cycle -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23005C9E,%2300c853,%23FF9800&size=35&center=true&vCenter=true&width=1000&lines=Hi+there,+I'm+Mohamed+Ait+Touda;Based+in+Rabat,+Morocco;Data+Analyst+and+Tableau+Developer;Passionate+about+Data+Visualization)
 
 ---
